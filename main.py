@@ -1,5 +1,5 @@
-# Student name
-# Current date
+# Elliot Clarke
+# 9/13/24
 # String & Numeric Input 
 
 # Task 1
